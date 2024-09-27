@@ -39,12 +39,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "katie.cross at asu dot edu"
-  facebook: ""
-  github: ""
-  twitter: ""
-  patreon: ""
-  youtube: ""
+  email: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  facebook: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  github: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  twitter: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  patreon: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  youtube: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
