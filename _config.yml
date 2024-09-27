@@ -11,6 +11,10 @@ title: Katie's Website (LAB 5)
 # Your name to show in the footer
 author: Katie Cross
 
+# Define site URL
+url: https://katie-cross.github.io/katie-website-lab/
+
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
