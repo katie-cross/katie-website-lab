@@ -23,7 +23,6 @@ gosling:
 
 
 
-
 ![](img/ryan-v-ryan.jpg)   
 
 
